@@ -2,6 +2,10 @@
 
 ![status](https://github.com/openmultiplayer/open.mp/workflows/Build/badge.svg)
 
+> [!WARNING]
+> This is a nightly, modified build of open.mp (omp). APIs and behavior may change without notice.
+> This fork inverts textdraw limits (global 256, player 2048) to allow more per-player textdraws.
+
 ## Structure
 
 | Path | Content |
